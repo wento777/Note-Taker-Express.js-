@@ -102,8 +102,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
   
   # Note-Taker-Express.js Screenshots
   
-  *
+  * ![Screenshot (6)](https://user-images.githubusercontent.com/70625665/222879221-9ffe786e-2dd8-45bf-b587-72a07693d59a.png)
 
+ * ![Screenshot (7)](https://user-images.githubusercontent.com/70625665/222879231-3deeda82-c442-480d-a7b5-a7c78565d2e2.png)
+
+*![Screenshot (8)](https://user-images.githubusercontent.com/70625665/222879246-15a14498-5d26-4b95-a15f-90e9e83dc0b6.png)
 
 
 ## Summary
