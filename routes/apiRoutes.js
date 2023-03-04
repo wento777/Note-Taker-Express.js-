@@ -13,10 +13,6 @@ router.get('/notes', (req, res) => {
 });
 
 router.post('/notes', (req, res) => {
-    // here you're going to need to read from the file,
-    // and then append your new note
-    // and then write to the file
-
    
  readAndAppend(path.join(__dirname, '../db/db.json')).then(ourData => {
         res.json(JSON.parse(ourData));
