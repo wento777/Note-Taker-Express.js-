@@ -98,7 +98,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
   # This project has been deployed to GitHub, here is the link:
 
-  *
+  *  https://github.com/wento777/Note-Taker-Express.js-
   
   # Note-Taker-Express.js Screenshots
   
