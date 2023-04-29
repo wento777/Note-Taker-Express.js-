@@ -95,6 +95,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
   none
 
  
+  # The URL of the functional, deployed application in Heroku
+  
+  * https://calm-waters-12389.herokuapp.com/
+  
 
   # This project has been deployed to GitHub, here is the link:
 
